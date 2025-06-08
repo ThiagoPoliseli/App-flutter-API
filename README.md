@@ -11,7 +11,7 @@ Android Studio (para emulador Android)
 
 Instalação
 1. Clone o Repositório
-git clone https://github.com/ThiagoPolisel/App-flutter-API.git
+git clone https://github.com/ThiagoPolisel/App-flutter-API
 cd App-flutter-API
 
 2. Instale as Dependências
