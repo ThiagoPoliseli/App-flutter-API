@@ -26,7 +26,9 @@ No terminal do VS Code, execute:
 
 
 flutter clean
+
 flutter pub get
+
 flutter run
 
 
