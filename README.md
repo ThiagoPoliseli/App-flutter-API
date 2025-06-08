@@ -22,6 +22,9 @@ flutter pub get
 
 Certifique-se de que o emulador está em execução.
 No terminal do VS Code, execute:
+
+
+
 flutter clean
 flutter pub get
 flutter run
